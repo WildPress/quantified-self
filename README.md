@@ -1,5 +1,7 @@
 # Quantified Self
 
+Please refer to my [blog post](https://wildpress.co/blog/self-hosted-health-dashboard) for more details.
+
 ## Server Installation
 
 1. Clone this repo
